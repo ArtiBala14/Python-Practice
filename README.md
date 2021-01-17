@@ -1,11 +1,14 @@
-# Python-Practice
-Practice sheets
+# My repo for project at INSAID
 
-- Point 1
-- Point 2
+##   Here is list of all projects
 
-___
+- [Finance](http://https://github.com/ArtiBala14/Python-Practice/tree/main/finance-project "Finance")
+- Account
+- Banking
+- Energy
 
-```
-print('Hello World')
-```
+| Finance Project  |[![fin](https://raw.githubusercontent.com/ArtiBala14/Python-Practice/main/images/Finance.jpg "fin")](http://https://raw.githubusercontent.com/ArtiBala14/Python-Practice/main/images/Finance.jpg "fin")   |
+| :------------: | :------------: |
+|   | Accounts Project  |
+| Banking Project  |   |
+|   |  Energy Project[![Fin]
