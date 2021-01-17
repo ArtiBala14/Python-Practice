@@ -1,12 +1,11 @@
 # Python-Practice
 Practice sheets
-> lets see what happens
-''''
-- Hi
-- What
-- is this
 
+- Point 1
+- Point 2
 
+___
 
-
-print('Hello')
+```
+print('Hello World')
+```
