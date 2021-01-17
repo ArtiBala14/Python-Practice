@@ -9,6 +9,6 @@
 
 | Finance Project  |[![fin](https://raw.githubusercontent.com/ArtiBala14/Python-Practice/main/images/Finance.jpg "fin")](http://https://raw.githubusercontent.com/ArtiBala14/Python-Practice/main/images/Finance.jpg "fin")   |
 | :------------: | :------------: |
-|   | Accounts Project  |
+|   | Accounts Project  |[![Account](https://raw.githubusercontent.com/ArtiBala14/Python-Practice/main/images/Accounting.jpg "Account")](http://https://raw.githubusercontent.com/ArtiBala14/Python-Practice/main/images/Accounting.jpg "Account")
 | Banking Project  |   |
-|   |  Energy Project[![Fin]
+|   |  Energy Project |[![Fin][![Energy Accounting](https://raw.githubusercontent.com/ArtiBala14/Python-Practice/main/images/energy%20accounting.jpg "Energy Accounting")](http://https://raw.githubusercontent.com/ArtiBala14/Python-Practice/main/images/energy%20accounting.jpg "Energy Accounting")
